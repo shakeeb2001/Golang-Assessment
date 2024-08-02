@@ -12,27 +12,24 @@ Book Finder is a Go-based web application for managing and searching books. It p
 
 To run this project locally, follow these steps:
 
-
 1. Install dependencies:
 
     ```sh
     go mod tidy
     ```
 
-2. Running the Application
+## Running the Application
 
-  To run the application, use the following command:
+To run the application, use the following command:
 
     ```sh
-    go mod tidy
+    go run .
     ```
 
+## Running Tests
 
-3. Test the Application
-
-  To Test the application, use the following command:
+To test the application, use the following command:
 
     ```sh
     go test
     ```
-
