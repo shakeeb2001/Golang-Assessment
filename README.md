@@ -38,17 +38,26 @@ To test the application, use the following command:
 The following endpoints are available for managing books:
 
 GET /books: Retrieve a list of all books.
+
 POST /books: Add a new book.
+
 GET /books/:bookId: Retrieve a specific book by its ID.
+
 PUT /books/:bookId: Update a specific book by its ID.
+
 DELETE /books/:bookId: Delete a specific book by its ID.
+
 GET /books/search: Search for books based on query parameters.
+
 
 ## Docker and Minikube
 
 Docker: Run the application in a Docker container with the following settings:
+
 Access the application at http://localhost:8080
 
 Minikube: Deploy the application in a Minikube cluster with the following settings:
+
 Access the application at http://<minikube ip>:30000
+
 Make sure to replace <minikube ip> with the actual IP address of your Minikube instance.
