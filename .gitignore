@@ -1,0 +1,25 @@
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE files
+.idea/
+*.swp
+
+# Go module cache
+.go/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
