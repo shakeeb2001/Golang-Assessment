@@ -21,15 +21,18 @@ To run this project locally, follow these steps:
 
 2. Running the Application
 
-To run the application, use the following command:
+  To run the application, use the following command:
+
+    ```sh
+    go mod tidy
+    ```
 
 
+3. Test the Application
 
-2. Test the Application
+  To Test the application, use the following command:
 
-To Test the application, use the following command:
-
-```sh
-go test
-
+    ```sh
+    go test
+    ```
 
