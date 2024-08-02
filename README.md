@@ -14,22 +14,22 @@ To run this project locally, follow these steps:
 
 1. Install dependencies:
 
-    ```sh
+
     go mod tidy
-    ```
+
 
 ## Running the Application
 
 To run the application, use the following command:
 
-    ```sh
+
     go run .
-    ```
+
 
 ## Running Tests
 
 To test the application, use the following command:
 
-    ```sh
+
     go test
-    ```
+
