@@ -58,6 +58,6 @@ Access the application at http://localhost:8080
 
 Minikube: Deploy the application in a Minikube cluster with the following settings:
 
-Access the application at http://<minikube ip>:30000
+Access the application at http://minikube_ip:30000
 
-Make sure to replace <minikube ip> with the actual IP address of your Minikube instance.
+Make sure to replace minikube ip with the actual IP address of your Minikube instance.
